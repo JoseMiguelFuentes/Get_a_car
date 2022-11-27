@@ -76,6 +76,8 @@ async def comparation(id1: int,id2: int):
       newList.append(car2.dict())
   return newList
 
+# Robert esta loco
+
 
 """
 Estado de vehiculos  Nuevo | Usado
